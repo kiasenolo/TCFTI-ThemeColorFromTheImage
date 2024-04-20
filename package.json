@@ -1,0 +1,44 @@
+{
+  "name": "kilo-theme-color-from-the-image",
+  "displayName": "TCFTI - ThemeColorFromTheImage",
+  "author": {
+    "name": "KIASENOLO KILO"
+  },
+  "publisher": "KIASENOLO",
+  "description": "做來自己用的",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KILO-TCFTI { 01 } <Pixiv-104172324> [ 我稱它為 《經典配色》 ]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1-104172324-color-theme.json",
+        "id": "tcfti.01.pixiv.104172324"
+      },
+      {
+        "label": "KILO-TCFTI { 02 } <Pixiv-92142600> [ 我稱它為 帶點科技感的《淺藍色》 ]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/2-92142600-color-theme.json",
+        "id": "tcfti.02.pixiv.92142600"
+      },
+      {
+        "label": "KILO-TCFTI { 03 } <Pixiv-87377769> [ 我稱它為 可視效果很差的《深藍色》 ]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/3-87377769-color-theme.json",
+        "id": "tcfti.03.pixiv.87377769"
+      },
+      {
+        "label": "KILO-TCFTI { 04 } <Pixiv-109556597> [ 我稱它為 很木頭的《木頭色》 ]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4-109556597-color-theme.json",
+        "id": "tcfti.04.pixiv.109556597"
+      }
+    ]
+  }
+}
