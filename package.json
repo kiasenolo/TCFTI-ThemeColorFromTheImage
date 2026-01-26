@@ -38,6 +38,12 @@
         "uiTheme": "vs-dark",
         "path": "./themes/4-109556597-color-theme.json",
         "id": "tcfti.04.pixiv.109556597"
+      },
+      {
+        "label": "KILO-TCFTI { 05 } <Pixiv-100581107> [ 名字未定 ]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/5-100581107-color-theme.json",
+        "id": "tcfti.05.pixiv.100581107"
       }
     ]
   }
