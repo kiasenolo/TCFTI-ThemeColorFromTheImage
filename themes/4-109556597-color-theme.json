@@ -86,8 +86,8 @@
     "editorHoverWidget.background": "#110c09",
     "editorHoverWidget.border": "#1d150e",
     "editorHoverWidget.foreground": "#f2ecc1",
-    "editorIndentGuide.activeBackground1": "#bda15f",
-    "editorIndentGuide.background1": "#f2ecc16c",
+    "editorIndentGuide.activeBackground1": "#f2ecc194",
+    "editorIndentGuide.background1": "#f2ecc141",
     "editorInfo.background": "#00000000",
     "editorInfo.border": "#00000000",
     "editorInfo.foreground": "#46503d",
@@ -129,7 +129,7 @@
     "input.border": "#00000000",
     "input.foreground": "#f2ecc1",
     "input.placeholderForeground": "#f2ecc16e",
-    "inputOption.activeBackground": "#f2ecc152",
+    "inputOption.activeBackground": "#5A5444",
     "inputOption.activeBorder": "#00000000",
     "inputOption.activeForeground": "#f2ecc1",
     "keybindingLabel.background": "#b6a46956",
@@ -272,7 +272,7 @@
     "tree.indentGuidesStroke": "#f2ecc1",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "widget.shadow": "#110c09",
-    //"actionBar.toggledBackground": "#f2ecc152",
+    //"actionBar.toggledBackground": "#5A5444",
     //"activityBar.activeBorder": "#f2ecc1",
     //"activityBar.dropBorder": "#f2ecc1",
     //"activityBarTop.activeBorder": "#e7e7e7",
@@ -864,7 +864,7 @@
     {
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#F2ECC152"
+        "foreground": "#5A5444"
       }
     },
     {
@@ -2240,7 +2240,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#F2ECC152"
+        "foreground": "#5A5444"
       }
     },
     {
@@ -2280,7 +2280,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#F2ECC152"
+        "foreground": "#5A5444"
       }
     },
     {
@@ -2314,14 +2314,14 @@
     {
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#F2ECC152",
+        "foreground": "#5A5444",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#F2ECC152"
+        "foreground": "#5A5444"
       }
     },
     {
