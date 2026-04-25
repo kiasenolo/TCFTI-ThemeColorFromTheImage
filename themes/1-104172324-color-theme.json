@@ -365,7 +365,7 @@
     {
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#FDE9B64C"
+        "foreground": "#5B5A50"
       }
     },
     {
@@ -1741,7 +1741,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#FDE9B64C"
+        "foreground": "#5B5A50"
       }
     },
     {
@@ -1781,7 +1781,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#FDE9B64C"
+        "foreground": "#5B5A50"
       }
     },
     {
@@ -1815,14 +1815,14 @@
     {
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#FDE9B64C",
+        "foreground": "#5B5A50",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#FDE9B64C"
+        "foreground": "#5B5A50"
       }
     },
     {
