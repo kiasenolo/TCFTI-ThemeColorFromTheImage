@@ -16,31 +16,31 @@
   "contributes": {
     "themes": [
       {
-        "label": "KILO-TCFTI { 01 } <Pixiv-104172324> [ 我稱它為 《經典配色》 ]",
+        "label": "KILO-TCFTI { 01 } <Pixiv-104172324> [ 經典配色 ]",
         "uiTheme": "vs-dark",
         "path": "./themes/1-104172324-color-theme.json",
         "id": "tcfti.01.pixiv.104172324"
       },
       {
-        "label": "KILO-TCFTI { 02 } <Pixiv-92142600> [ 我稱它為 帶點科技感的《淺藍色》 ]",
+        "label": "KILO-TCFTI { 02 } <Pixiv-92142600> [ 帶點科技感的淺藍色 ]",
         "uiTheme": "vs-dark",
         "path": "./themes/2-92142600-color-theme.json",
         "id": "tcfti.02.pixiv.92142600"
       },
       {
-        "label": "KILO-TCFTI { 03 } <Pixiv-87377769> [ 我稱它為 可視效果很差的《深藍色》 ]",
+        "label": "KILO-TCFTI { 03 } <Pixiv-87377769> [ 深海裏微微的青綠色（？ ]",
         "uiTheme": "vs-dark",
         "path": "./themes/3-87377769-color-theme.json",
         "id": "tcfti.03.pixiv.87377769"
       },
       {
-        "label": "KILO-TCFTI { 04 } <Pixiv-109556597> [ 我稱它為 很木頭的《木頭色》 ]",
+        "label": "KILO-TCFTI { 04 } <Pixiv-109556597> [ 你住在樹裏面的木頭色 ]",
         "uiTheme": "vs-dark",
         "path": "./themes/4-109556597-color-theme.json",
         "id": "tcfti.04.pixiv.109556597"
       },
       {
-        "label": "KILO-TCFTI { 05 } <Pixiv-100581107> [ 名字未定 ]",
+        "label": "KILO-TCFTI { 05 } <Pixiv-100581107> [ WIP ]",
         "uiTheme": "vs-dark",
         "path": "./themes/5-100581107-color-theme.json",
         "id": "tcfti.05.pixiv.100581107"
