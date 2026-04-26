@@ -1845,6 +1845,13 @@
     }
   ],
   "colors": {
+    "disabledForeground": "#36ffde36",
+    "keybindingLabel.border": "#36ffde67",
+    "keybindingLabel.bottomBorder": "#36ffde21",
+    "keybindingLabel.background": "#36ffde38",
+    "keybindingLabel.foreground": "#36ffde",
+    "textPreformat.background": "#0e3345",
+    "textPreformat.foreground": "#36ffde",
     "foreground": "#36ffde",
     "focusBorder": "#36ffde",
     "selection.background": "#72ada24a",
