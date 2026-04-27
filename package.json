@@ -7,7 +7,7 @@
   "publisher": "KIASENOLO",
   "icon": "assets/icon.png",
   "description": "做來給自己用的一個很神奇的主題色",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
